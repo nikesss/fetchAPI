@@ -1,0 +1,10 @@
+.info {
+    width: 100%;
+}
+
+.main_img {
+    width: 75%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
